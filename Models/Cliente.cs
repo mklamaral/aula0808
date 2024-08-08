@@ -13,6 +13,7 @@
         public string Bairro { get; set; } = string.Empty;
         public string Rua { get; set; } = string.Empty;
         public string Numero { get; set; } = string.Empty;
+        public string Complemento {  get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;
         public string Celular { get; set; } = string.Empty;
     }
